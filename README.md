@@ -1,4 +1,4 @@
-# API-Rest-Node-JS
+# API Node-JS
 
 <div>
     <img src="https://user-images.githubusercontent.com/56280877/171879215-8378d5c3-8a66-4ee1-9b7c-a81112afd615.png" width="200px" />
